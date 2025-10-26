@@ -1,0 +1,1 @@
+Optimize build configuration to prevent timeout - Add no-audit and prefer-offline flags

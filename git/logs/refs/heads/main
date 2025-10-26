@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 1b9124e1fc92442b5a0c0ea65474eb3b3f787caa manritz2 <iammani247@gmail.com> 1760777368 +0530	commit (initial): Ready for deployment
+1b9124e1fc92442b5a0c0ea65474eb3b3f787caa 1b9124e1fc92442b5a0c0ea65474eb3b3f787caa manritz2 <iammani247@gmail.com> 1760777485 +0530	Branch: renamed refs/heads/master to refs/heads/main
+1b9124e1fc92442b5a0c0ea65474eb3b3f787caa 1b9124e1fc92442b5a0c0ea65474eb3b3f787caa manritz2 <iammani247@gmail.com> 1760777792 +0530	Branch: renamed refs/heads/main to refs/heads/main
+1b9124e1fc92442b5a0c0ea65474eb3b3f787caa 8fd7a05010cf5e2523fd7e4311c331cc9f25509d manritz2 <iammani247@gmail.com> 1760778484 +0530	commit (merge): Merge remote changes
+8fd7a05010cf5e2523fd7e4311c331cc9f25509d f321dd84cdb71316cc28742e7077b9818367777a manritz2 <iammani247@gmail.com> 1760802467 +0530	commit: Complete Luffy food delivery platform with professional UI/UX
+f321dd84cdb71316cc28742e7077b9818367777a 57936ff5253c272fc57e50c0d58a3c2a40a95484 manritz2 <iammani247@gmail.com> 1760802674 +0530	commit (merge): Merge remote changes and keep Luffy branding
+57936ff5253c272fc57e50c0d58a3c2a40a95484 8e82aa9d542a8d22088ce61a1946b7d751babb37 manritz2 <iammani247@gmail.com> 1760803253 +0530	commit: Add comprehensive Render deployment guides
+8e82aa9d542a8d22088ce61a1946b7d751babb37 3cb6da808b01766845344e24daadc51160a93746 manritz2 <iammani247@gmail.com> 1760803752 +0530	commit: Add comprehensive free deployment platform comparison guide
+3cb6da808b01766845344e24daadc51160a93746 03e39a8925059471754cfc91b4c8ac70e8a116ef manritz2 <iammani247@gmail.com> 1760807131 +0530	commit: Add Railway deployment configuration and comprehensive guides
+03e39a8925059471754cfc91b4c8ac70e8a116ef 8a51d889f0968675f4c0d49cec865c0daa5f6d40 manritz2 <iammani247@gmail.com> 1760808215 +0530	commit: Fix Railway deployment: Remove Dockerfile and use Nixpacks auto-detection
+8a51d889f0968675f4c0d49cec865c0daa5f6d40 71dc41d8f0e6b0f9f99dd5372ccfb9237cf810b0 manritz2 <iammani247@gmail.com> 1760808287 +0530	commit: Add Railway troubleshooting guide for Docker build error
+71dc41d8f0e6b0f9f99dd5372ccfb9237cf810b0 f7ba5a485f2c29843dd4906d4aaa8a3eee15ce62 manritz2 <iammani247@gmail.com> 1760808469 +0530	commit: Force Railway to use Nixpacks - disable Docker completely
+f7ba5a485f2c29843dd4906d4aaa8a3eee15ce62 2058a2cb759b5c26aea985a615cd822513f21493 manritz2 <iammani247@gmail.com> 1760843511 +0530	commit: Simplify Railway configuration - remove nixpacks.toml for auto-detection
+2058a2cb759b5c26aea985a615cd822513f21493 2c6459fccf5301593eb24189144763141aa55615 manritz2 <iammani247@gmail.com> 1760844743 +0530	commit: Add service-specific Nixpacks config and Procfiles
+2c6459fccf5301593eb24189144763141aa55615 a84cde1d8af2264261276868c56bf992bb552636 manritz2 <iammani247@gmail.com> 1760846840 +0530	commit: Add health check endpoint to backend
+a84cde1d8af2264261276868c56bf992bb552636 c7128bf2e2709ce63c9d85d0b301a00688ce4f05 manritz2 <iammani247@gmail.com> 1760850593 +0530	commit: Fix Railway backend deployment - Update nixpacks config and add build script
+c7128bf2e2709ce63c9d85d0b301a00688ce4f05 95e5c8c87ecdda8fecb90254dcb36e9f5dd700d6 manritz2 <iammani247@gmail.com> 1760850775 +0530	commit: Fix frontend deployment - Update nixpacks to use nodejs-18_x
+95e5c8c87ecdda8fecb90254dcb36e9f5dd700d6 35dcaf34c1fed71a3c9d3bb3c8caecc7e18ae31d manritz2 <iammani247@gmail.com> 1760851261 +0530	commit: Fix frontend npm ci error - Regenerate package-lock and use npm install
+35dcaf34c1fed71a3c9d3bb3c8caecc7e18ae31d 06cda424d5709ec3d41192b8dab6d7b0a470566f manritz2 <iammani247@gmail.com> 1760851455 +0530	commit: Remove Procfile to enable nixpacks configuration
+06cda424d5709ec3d41192b8dab6d7b0a470566f 31fab2ae27cb1da7d38097c6240dacf6c939eca9 manritz2 <iammani247@gmail.com> 1760851845 +0530	commit: Force Railway to use Nixpacks builder with explicit config
+31fab2ae27cb1da7d38097c6240dacf6c939eca9 a5290a0bf937f81e31313112abbe1a53936c3d70 manritz2 <iammani247@gmail.com> 1760852401 +0530	commit: Fix nixpacks build error - Add NODE_ENV and regenerate package-lock
+a5290a0bf937f81e31313112abbe1a53936c3d70 f4d007af1c4f21226c8c4fc6314e169b69457147 manritz2 <iammani247@gmail.com> 1760853226 +0530	commit: Fix directory error - Remove conflicting configs and use CI=false for build
+f4d007af1c4f21226c8c4fc6314e169b69457147 4c7c732394d47735eb75e52ee279ba4a7c1147e7 manritz2 <iammani247@gmail.com> 1760853968 +0530	commit: Improve CORS configuration with explicit methods and headers
+4c7c732394d47735eb75e52ee279ba4a7c1147e7 336c6eabcabda422579975c207f58ee0b7df116f manritz2 <iammani247@gmail.com> 1760855645 +0530	commit: Add Indian restaurants, enhanced food items, and real-time order tracking
+336c6eabcabda422579975c207f58ee0b7df116f 0b1d9ff87b022689f83b4c55d7fc4573c9463429 manritz2 <iammani247@gmail.com> 1760855814 +0530	commit: Add Restaurant model to backend/models
+0b1d9ff87b022689f83b4c55d7fc4573c9463429 4f1f30e494166e4bc6fe37f486ac6264ce224094 manritz2 <iammani247@gmail.com> 1760855861 +0530	commit: Add comprehensive Indian food ordering features documentation
+4f1f30e494166e4bc6fe37f486ac6264ce224094 e10d30ce312c5c11877f1c499d659092abac5b65 manritz2 <iammani247@gmail.com> 1760857330 +0530	commit: Optimize build configuration to prevent timeout - Add no-audit and prefer-offline flags
